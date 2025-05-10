@@ -2,8 +2,8 @@
 
 ## Description
 
-A simple page put together using HTML and CSS.
-Page shows what HyperText Markup Language and Cascading Style Sheets are.
+A simple page put together using HTML (HyperText Markup Language) and CSS (Cascading Style Sheets).
+Page shows what HTML and CSS are, what they are for, and how to link them together.
 
 ## Functionality
 
